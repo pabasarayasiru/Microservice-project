@@ -31,3 +31,14 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# MongoDB Docker volume
+data/
+
+# MongoDB shell logs
+.mongodb/
+
+# OS junk
+*.log
+
+data/
