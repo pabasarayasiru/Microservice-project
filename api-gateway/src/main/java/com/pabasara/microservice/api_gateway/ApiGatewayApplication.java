@@ -1,4 +1,4 @@
-package com.example.api_gateway;
+package com.pabasara.microservice.api_gateway;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
